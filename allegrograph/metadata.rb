@@ -1,6 +1,6 @@
 name             'allegrograph'
 maintainer       'Dmitriy Krantsberg'
-maintainer_email 'dkrantsber@gannettt.com'
+maintainer_email 'dkrantsber@gannett.com'
 license          'All rights reserved'
 description      'Installs/Configures AllegroGraph'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
