@@ -1,4 +1,4 @@
-name             'chef-allegrograph'
+name             'allegrograph'
 maintainer       'Dmitriy Krantsberg'
 maintainer_email 'dkrantsber@gannettt.com'
 license          'All rights reserved'
